@@ -19,7 +19,7 @@ I'm Bibhu Prasad Pala, and welcome to my GitHub profile!
 
 ## Pull Requests
 
-- [PR1: Fix a bug in the authentication module](https://github.com/yourusername/repo-name/pull/123)
-- [PR2: Add a new feature to the dashboard](https://github.com/yourusername/repo-name/pull/456)
+- [PR1: APACHE/InLong](https://github.com/apache/inlong/pull/7864)
+- [PR2: MarkBind/MarkBind](https://github.com/MarkBind/markbind/pull/2286#issuecomment-1510373893)
 
 Thank you for visiting my profile! Don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project.
