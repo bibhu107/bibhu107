@@ -4,8 +4,7 @@ I'm Bibhu Prasad Pala, and welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I’m currently exploring Web-3, Solana, blockchain projects
-- 👯 I’m looking to collaborate on Web-3 projects, or any other interesting projects.
+- 🌱 I’m currently exploring Data engineering, Creating Data Lake platforms and Love Apache/Hudi
 - 💬 Ask me about Java/AWS/SystemDesign/LLD/DesignPatterns/Algos, I would love to talk about it with you!
 - 📫 How to reach me: [<img src="https://img.icons8.com/color/24/000000/twitter-squared.png"/>](https://twitter.com/bibhupala107)
 
